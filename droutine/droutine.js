@@ -38,7 +38,7 @@ if(day==7)  //sunday
 }
 if(day==4)
 {
-    document.write("<center>Hey Humaira today is holyday or reading day , You may read or enjoy or you can talk to Tashin<center>");
+    document.write("<center>Hey Dear, today is holyday or reading day , You may read or enjoy or you can talk to Tashin<center>");
 }
 
 
