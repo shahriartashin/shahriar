@@ -36,6 +36,9 @@ if(day==7)  //sunday
     document.getElementsByTagName("td")[3].innerHTML="CSC 197 |Room:501";      //11.45  
 
 }
-
+if(day==4)
+{
+    document.write("<center>Hey Humaira today is holyday or reading day , You may read or enjoy or you can talk to Tashin<center>");
+}
 
 
