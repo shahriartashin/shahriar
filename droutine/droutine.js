@@ -29,7 +29,7 @@ if(day==3) //wednessday
     document.getElementsByTagName("td")[2].innerHTML="CSC 391 |Room:401";      //11.45  
     document.getElementsByTagName("td")[3].innerHTML="CSC 197 |Room:608";
 }
-if(day==7)  //sunday
+if(day==0)  //sunday
 {
     document.querySelector(".day").innerHTML="Sunday";
     document.getElementsByTagName("td")[2].innerHTML="CSC 391 |Room:502";       //10.40
