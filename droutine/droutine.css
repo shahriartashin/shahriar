@@ -1,0 +1,33 @@
+.table{
+	width: 100%;
+	border-collapse: collapse;
+    border-radius: 5px 5px 5px 5px;
+    overflow: hidden;
+}
+
+.table td,.table th{
+    padding:25px 20px;
+    text-align: center;
+    font-size:16px;
+    border: 1px solid rgb(7, 7, 7);
+    
+   
+  }
+  
+
+  
+  .table th{
+	background-color: rgba(9, 48, 44, 0.788);
+	color:#000000;
+    
+}
+
+.table tbody tr:nth-of-type(even){
+    background-color:rgba(74, 126, 182,.4);
+}
+    .table tbody tr:nth-of-type(odd){
+        background-color:rgba(12, 39, 59,.4);
+}
+.table tbody tr:last-of-type{
+    border-bottom:2px solid rgb(31, 76, 97);
+}
