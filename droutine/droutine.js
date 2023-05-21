@@ -47,7 +47,7 @@ if(day==0)  //sunday//0
     document.querySelector(".rotated-text").innerHTML="Sunday";   
 
 }
-if(day==0) //monday//1
+if(day==1) //monday//1
 {
     document.querySelectorAll(".sub")[0].innerHTML="CSC 455 ...... #611";       
     document.querySelectorAll(".sub")[1].innerHTML="STA 240 ...... #621";
